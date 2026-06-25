@@ -1,0 +1,32 @@
+## Professional .NET / Visual Studio Gitignore
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+x64/
+x86/
+bbin/
+bin/
+obj/
+
+# Visual Studio cache and settings
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet Packages
+*.nupkg
+# Visual Studio cache folder for NuGet package restore
+packages/
+
+# Rider / JetBrains / VS Code caches
+.idea/
+.vscode/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
